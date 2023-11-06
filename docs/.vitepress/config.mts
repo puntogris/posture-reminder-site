@@ -50,7 +50,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/puntogris/are-you-a-robot" },
+      { icon: "github", link: "https://github.com/puntogris/posture-reminder" },
     ],
 
     search: {

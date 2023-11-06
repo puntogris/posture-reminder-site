@@ -3,9 +3,9 @@
 ## Login
 
 ### Can i login with various accounts on the same phone?
-Yes you can, every time you login we sync your account from the data we have in the cloud.
+Yes, you can. Every time you log in, we synchronize your account with the data we have in the cloud. 
 
-Keep in mind that we backup your data every 5 hours so it might be a bit outdated in some cases.
+Please note that we back up your data every 5 hours, so it may be slightly outdated in some cases."
 
 ### I can't login, what can i do?
 Check that you have a stable internet connection and try again in a few minutes, if the problem persist, send me an e-mail to: **puntogrishelp@gmail.com**
@@ -14,7 +14,7 @@ Check that you have a stable internet connection and try again in a few minutes,
 
 ### Can i have multiple reminders?
 Now you can! You can have multiple reminders with different configurations.
- At the moment there is a limit of 10 max reminders per account, but this can change later, so don't worry if you need more.
+At the moment there is a limit of 10 max reminders per account, but this can change later, so don't worry if you need more.
 
 ### Different ranking and account levels.
 We sync your experience every 5 hours, so it might take a while too see your level updated in the rankings.
@@ -51,10 +51,8 @@ Every account has a private and public profile, so your private information is o
 
 And we share your public profile that contains your name and experience to show in the ranking system.
 
-### If i close my account, is all my information deleted from the cloud?
-Not at the moment, i'm planing in adding a delete all data button in the app for peace of mind.
-
-I don't store too much data about you, just the essential for authentication porpuses, so there is no need to worry.
+### Can i delete my account?
+Yes! In the Settings menu, under Account, you have the option to permanently delete all of your account data. Please be aware that this action is irreversible and will result in the erasure of all your information from our servers.
 
 ## I have another question!
 
