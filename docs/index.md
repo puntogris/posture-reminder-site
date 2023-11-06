@@ -26,25 +26,9 @@ features:
     details: Pick between Light and Dark theme or your system default one.
 ---
 
-# Screens
-
-<div :class="$style.container"> 
-<img src="/1.webp" width="350" height="350"/>
-<img src="/2.webp" width="350" height="350"/>
-<img src="/3.webp" width="350" height="350"/>
+<h1 class="font-bold text-lg text-center mt-12">Screens</h1>
+<div class="grid sm:grid-cols-3 max-w-5xl mx-auto gap-2 mt-4 grid-cols-1 sm:px-4 px-24">
+  <img src="/1.webp" />
+  <img src="/2.webp" />
+  <img src="/3.webp" />
 </div>
-
-
-
-
-<style module>
-.container {
-    display: flex;
-    place-items: center;
-    justify-items: center;
-    width: 200;
-    margin-left: auto;
-    margin-right: auto;
-
-}
-</style>

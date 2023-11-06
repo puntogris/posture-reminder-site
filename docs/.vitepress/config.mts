@@ -58,5 +58,10 @@ export default defineConfig({
     },
 
     logo: "logo.webp",
+
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Made by Puntogris'
+    }
   },
 });
