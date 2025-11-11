@@ -11,7 +11,7 @@ export default defineConfig({
       `window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };`,
     ],
     ["script", { defer: "", src: "/_vercel/insights/script.js" }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ["link", { rel: "icon", href: "/favicon.ico" }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -27,6 +27,7 @@ export default defineConfig({
         text: "Versions",
         items: [
           { text: "Readme", link: "/versions/" },
+          { text: "2.3.2", link: "/versions/v2.3.2.md" },
           { text: "2.3.1", link: "/versions/v2.3.1.md" },
           { text: "2.3.0", link: "/versions/v2.3.0.md" },
           { text: "2.2.0", link: "/versions/v2.2.0.md" },
@@ -49,9 +50,7 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/puntogris/posture-reminder" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/puntogris/posture-reminder" }],
 
     search: {
       provider: "local",
@@ -60,8 +59,8 @@ export default defineConfig({
     logo: "logo.webp",
 
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Made by Puntogris'
-    }
+      message: "Released under the MIT License.",
+      copyright: "Made by Puntogris",
+    },
   },
 });
