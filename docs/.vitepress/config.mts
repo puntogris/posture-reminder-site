@@ -27,6 +27,7 @@ export default defineConfig({
         text: "Versions",
         items: [
           { text: "Readme", link: "/versions/" },
+          { text: "3.0.0", link: "/versions/v3.0.0.md" },
           { text: "2.3.2", link: "/versions/v2.3.2.md" },
           { text: "2.3.1", link: "/versions/v2.3.1.md" },
           { text: "2.3.0", link: "/versions/v2.3.0.md" },
